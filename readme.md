@@ -36,9 +36,9 @@ To run tests for your application, follow these steps:
 
   This will execute your test suite and provide feedback on the test results.
 
-### APIs Documentation
+## APIs Documentation
 
-#### Transfer Funds
+### Transfer Funds
 
 ###### Transfer money from one account to another.
 
@@ -73,7 +73,7 @@ To run tests for your application, follow these steps:
 
 
 
-#### Get All Accounts
+### Get All Accounts
 ###### Retrieve a list of accounts.
 
 **URI /accounts**
