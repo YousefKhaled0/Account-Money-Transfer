@@ -1,4 +1,4 @@
-# Your Account Transfer Application
+# Account Transfer Application
 
 This application allows you to transfer money between accounts and retrieve account information.
 
