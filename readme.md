@@ -43,8 +43,11 @@ To run tests for your application, follow these steps:
 ###### Transfer money from one account to another.
 
 **URI: /transfer**
+
 **Method: POST**
+
 **Request Body: JSON**
+
 **Example request body:**
 
 ```json
@@ -56,6 +59,7 @@ To run tests for your application, follow these steps:
 ```
 
 **Response: JSON**
+
 **Example response:**
 
 ```json
@@ -73,12 +77,17 @@ To run tests for your application, follow these steps:
 ###### Retrieve a list of accounts.
 
 **URI /accounts**
+
 **Method: GET**
+
 **Query Parameters:**
+
 **page (optional): Page number (default is 1).**
+
 **pageSize (optional): Number of accounts per page (default is 10).**
 
 **Response: JSON**
+
 **Example response:**
 
 ```json
