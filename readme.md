@@ -98,7 +98,6 @@ To run tests for your application, follow these steps:
         "id": "054f9801-f070-4f16-bde7-155430417d43",
         "name": "Quimba",
         "balance": "1011.56"
-    },
-    ...
+    }
 ]
 ```
